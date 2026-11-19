@@ -1,2 +1,7 @@
 # Trabalho Banco de Dados
-Repositório
+Nome time:
+Tema:
+Integrantes:
+-Nicolas Vicente Sanches
+-Raul Silva
+-Renan Coneglian
