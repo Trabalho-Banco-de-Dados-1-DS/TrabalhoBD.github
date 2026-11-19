@@ -1,2 +1,2 @@
-# TrabalhoBD.github
+# Trabalho Banco de Dados
 Repositório
