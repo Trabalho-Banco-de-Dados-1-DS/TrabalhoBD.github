@@ -1,6 +1,6 @@
 # Trabalho Banco de Dados
 Nome time:
-Tema: /p
+Tema:
 Integrantes:
 -Nicolas Vicente Sanches
 -Raul Silva
