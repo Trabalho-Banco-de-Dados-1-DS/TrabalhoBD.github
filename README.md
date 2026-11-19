@@ -3,6 +3,6 @@ Nome time:\
 Tema:\
 Integrantes:\
 -Nicolas Vicente Sanches\
--Raul Silva\
--Renan Coneglian
+-Raul Alves Oliveira da Silva\
+-Renan Acquaroli Coneglian
 -
