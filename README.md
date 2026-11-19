@@ -1,5 +1,5 @@
 # Trabalho Banco de Dados
--Nome time:
+Nome time:
 Tema:
 Integrantes:
 -Nicolas Vicente Sanches
