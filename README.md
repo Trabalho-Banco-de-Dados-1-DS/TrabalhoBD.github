@@ -1,5 +1,5 @@
 # Trabalho Banco de Dados
-Nome time: Dead Signal\
+Nome Time: Dead Signal\\
 Tema: Streaming de música\
 Integrantes:\
 -Nicolas Vicente Sanches\
